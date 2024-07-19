@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/x-course-task-react/static/css/main.90aae009.css",
+    "main.js": "/x-course-task-react/static/js/main.0c333c19.js",
+    "static/media/avatar.png": "/x-course-task-react/static/media/avatar.0d14c6999b4a5c8e86a7.png",
+    "static/media/imageNotFound.png": "/x-course-task-react/static/media/imageNotFound.298b98203c3825c61303.png",
+    "static/media/cart.svg": "/x-course-task-react/static/media/cart.5a1c3c755c07e59db7d65be6bc8d8bfb.svg",
+    "index.html": "/x-course-task-react/index.html",
+    "main.90aae009.css.map": "/x-course-task-react/static/css/main.90aae009.css.map",
+    "main.0c333c19.js.map": "/x-course-task-react/static/js/main.0c333c19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90aae009.css",
+    "static/js/main.0c333c19.js"
+  ]
+}
