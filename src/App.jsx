@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
+import { HashRouter, Route, Routes, Navigate } from 'react-router-dom';
 import { useState } from 'react';
 import CartContext from './context/CartContext';
 import MainLayout from './routes/MainLayout';
@@ -39,7 +39,7 @@ export default function App() {
   return (
     <div className='App'>
       <CartContext.Provider value={cart}>
-        <BrowserRouter>
+        <HashRouter>
           <Routes>
             <Route
               path='/'
@@ -67,7 +67,7 @@ export default function App() {
             </Route>
             <Route path='*' element={<NotFoundPage />} />
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
       </CartContext.Provider>
     </div>
   );
