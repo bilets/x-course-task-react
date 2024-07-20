@@ -39,7 +39,6 @@ export default function SpecificBook({ addToCart }) {
             Book author: <i>{book.author}</i>
           </p>
           <p>Book in cart: {bookInCartCount ? bookInCartCount : 0}</p>
-          <p>Book tags:</p>
         </div>
 
         <Form addToCart={addToCart} title={title} price={price} />
