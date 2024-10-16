@@ -1,7 +1,7 @@
 This is my course project "Book online store" which is available at the link 
 https://bilets.github.io/x-course-task-react/                                                 
 The project was done according following requirements 
-https://github.com/bilets/x-course-task-react/edit/master/course-project-requirements.pdf
+https://github.com/bilets/x-course-task-react/blob/master/course-project-requirements.pdf
 
 
 ## Available Scripts
